@@ -1,0 +1,7 @@
+﻿  Evaluate_mathematical_expressions.cpp
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Stack.h(1,1): warning C4828: 文件包含在偏移 0x233 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Evaluate_mathematical_expressions.vcxproj -> C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\x64\Release\Evaluate_mathematical_expressions.exe

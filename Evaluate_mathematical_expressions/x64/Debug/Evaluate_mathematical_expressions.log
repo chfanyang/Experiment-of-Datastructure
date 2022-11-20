@@ -1,0 +1,9 @@
+﻿  Evaluate_mathematical_expressions.cpp
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Stack.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Evaluate_mathematical_expressions.cpp(218,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Evaluate_mathematical_expressions.cpp(228,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Stack.cpp
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Stack.cpp(1,1): warning C4828: 文件包含在偏移 0x5ac 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\Stack.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Evaluate_mathematical_expressions.vcxproj -> C:\Users\陈晨\Desktop\Evaluate_mathematical_expressions\x64\Debug\Evaluate_mathematical_expressions.exe
